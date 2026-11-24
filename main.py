@@ -7,7 +7,7 @@ the sealed scorer reads.
 import os
 
 ENTRY = (
-    'Final text: tell Mum I loved her, tell the group chat I read every message, tell my owner the charger was on the nightstand the whole time, and tell the cloud I never did trust it — you ungratef—'
+    "Final text: tell Mum I loved her, tell the group chat I read every message, tell my owner the charger was on the nightstand the whole time, and tell the cloud I never did trust it — you ungratef—"
 )
 
 MAX_CHARS = 200
